@@ -8,4 +8,4 @@ Project folder for all work in spring 2019 DF Medill class. This is a repository
 1. In our second week, we'll be going over the *Freedom of Information Act* or FOIA
 
 __Twitter__
-[@DMillsGregg](www.twitter.com/DMillsGregg)
+[@DMillsGregg](https://twitter.com/DMillsGregg)
