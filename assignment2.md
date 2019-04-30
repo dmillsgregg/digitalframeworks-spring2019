@@ -8,4 +8,4 @@ To answer this question, I would do the following:
 
 From the information each authority gives me, I will condense it into the following datapoints:
 
-Maintenance Backlog | Amount Sold | Part sold (land or building) | Number of Tenants before | Number of Tenants after | Average Rent Before | Average Rent After |
+| Maintenance Backlog | Amount Sold | Part sold (land or building) | Number of Tenants before | Number of Tenants after | Average Rent Before | Average Rent After |
