@@ -1,6 +1,6 @@
 I plan to find out if the Rental Assistance Demonstration program, or RAD, is addressing the public housing maintenance backlog. I will primarily be using data from the HUD website, but I was thinking of focusing on one or two particular areas that will help illustrate the point.
 
-To do this, I will reach out to the Housing and Urban Development public affairs staff and help me find all the resources, like the backlog list and how many authorities are using RAD, that they have publicly.. I've already found a very useful part of the HUD website [here](url:https://www.hud.gov/RAD/library/tools) to use.
+To do this, I will reach out to the Housing and Urban Development public affairs staff and help me find all the resources, like the backlog list and how many authorities are using RAD, that they have publicly. I've already found a very useful part of the HUD website [here](https://www.hud.gov/RAD/library/tools) to use.
 
 While reviewing that data and hopefully learning some of the scopes of certain projects, I will reach out to the National Association of Housing and Redevelopment Officials and ask them their experience with how it is working and more data on the program and the backlog. Since Rep. Maxine Waters has been strongly against the program, I will also reach out to her office for sources and particular cities or states using the RAD program - I would contrast that with a list of "sucesses" HUD provided.
 
