@@ -1,7 +1,6 @@
 # Leaky pipes, private money
 ## What the U.S. is doing to address its public housing maintenance backlog
 ### By Dorothy Mills-Gregg
-
 Public housing authorities across the country are dealing, much like some residents in the public sector, with aging buildings and how to best tackle mounting repairs.
 That’s why under Pres. Barack Obama, Housing and Urban Development started a program, Rental Assistance Demonstration, to infuse private funds into public housing. Nine years ago, the federal government looked into Congress’s involvement in the issue of delayed maintenance and found decades of underfunding authorities’ capital funds led to a $26 billion backlog for repairs.
 Some of that maintenance wasn’t just cosmetic, affordable housing advocates said, but includes falling roofs, upgrading security and fixing heating systems.
