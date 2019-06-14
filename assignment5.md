@@ -1,8 +1,8 @@
-## Mexico paid back more than $1 billion in US aid
+# Mexico paid back more than $1 billion in US aid
 
 From 2010 to 2019, Mexico paid back about $1.029 billion of the nearly $2.6 billion it's received in U.S. Aid, which begs the question of how much aid is the United States sending out as loans to countries in need of monetary support?
 
-# Interview a dataset
+## Interview a dataset
 
 I chose the U.S. A.I.D. [website](https://foreignassistance.gov/) and downloaded a csv file downloaded from the site's [page](https://foreignassistance.gov/explore/country/Mexico) on Mexico to see what kind of aid we are sending to our southern neighbors.
 My first question about the dataset is for the staffer who grabs all this information. Is the department sending the amount or is the department taking any of these dollar amounts Congress passed in its budget? I know from past experience, what happens in reality isn't always what was laid out in law. I would also want to ask the staffer: What's the difference between a commitment and disbursement?
