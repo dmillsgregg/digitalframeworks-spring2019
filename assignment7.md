@@ -1,10 +1,11 @@
+The top-spending presidential candidates choose to spend their hard-earned campaign contributions on everything from the typical bread and butter of campaigns to the bizarre. My main question after reviewing Trump, Sanders', Delaney, Harris and Gillibrand was why did Elizabeth Warren spend nearly $500 on flowers at two events?
+
+Clearly this isn't common because the other candidates spending the same high amounts spent money on travel, hotels and general catering.
+
 I found this information on [fec.gov](https://www.fec.gov/), and from the homepage, began with "Campaign finance data" - Candidates. Next, I choose Elizabeth Warren after clicking on the section about Presidential candidates. That's when I saw she's spent about $5.3 million, ranking fourth among the highest spenders. That's when I wondered how she's spent her money. So I found her [disbursements](https://www.fec.gov/data/disbursements/?committee_id=C00693234&two_year_transaction_period=2020&data_type=processed) and exported/downloaded the amount to Excel.
-First, I found which column contains the reipient name and sorted it. Once I found something interesting, i.e. the flowers, I decided to narrow it to just those expenditures by using the filter feature on excel and set it just to "Winston Flowers." That's 
+First, I found which column contains the reipient name and sorted it. Once I found something interesting, i.e. the flowers, I decided to narrow it to just those expenditures by using the filter feature on excel and set it just to "Winston Flowers." That's when I found her campaign has spent a total of $496.13 on flowers. So I compared that with the six other top-spending presidential candidates to find other incidents of flowers. I found Trump's 2020 campaign has [spent](https://www.fec.gov/data/disbursements/?committee_id=C00580100&two_year_transaction_period=2020&data_type=processed) money on medals and whatever "fleece and IPad Rental" is. Bernie Sanders' recent campaign had several high [expenses](https://www.fec.gov/data/disbursements/?committee_id=C00696948&committee_id=C00577130&two_year_transaction_period=2020&data_type=processed) from the famous camera store, B&H, in New York City. Delaney spent hundreds of dollars in Shopify purchases, and Kamala Harris did not have flowers either on her list, but she has paid thousands in event and facility costs. Meanwhile, Gillibrand has concentrated her spending on meals, according to her expenditures, and 
 
 
 Turn in:
 
-1. A brief summary of what you found
-1. The pitch to your editor
-1. A step-by-step data diary of how you obtained the data and any cleaning/analysis you did
 1. A sample headline and nut graf based on your finding
